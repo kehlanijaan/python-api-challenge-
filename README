@@ -136,5 +136,3 @@ Narrow down the city_data_df DataFrame to find your ideal weather condition (5 p
 For each city in the hotel_df DataFrame, use the Geoapify API to find the first hotel located within 10,000 metres of your coordinates (10 points)
 
 Add the hotel name and the country as additional information in the hover message for each city in the map. (10 points)
-
-Grading
